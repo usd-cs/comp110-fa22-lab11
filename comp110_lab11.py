@@ -3,6 +3,7 @@ Module: comp110_lab11
 
 Lab 11: A flash card program.
 """
+import random
 
 
 def get_flash_cards(filename):
