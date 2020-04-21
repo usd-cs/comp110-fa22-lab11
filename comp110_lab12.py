@@ -1,7 +1,7 @@
 """
-Module: comp110_lab11
+Module: comp110_lab12
 
-Lab 11: A flash card program.
+Lab 12: A flash card program.
 """
 import random
 
