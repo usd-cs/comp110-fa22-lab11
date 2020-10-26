@@ -1,7 +1,7 @@
 """
-Module: comp110_lab12
+Module: comp110_lab11
 
-Lab 12: A flash card program.
+Lab 11: A flash card program.
 """
 import random
 
@@ -28,7 +28,7 @@ def get_flash_cards(filename):
     return None # modify this line to return your dictionary
 
 
-# To Do: Define your quiz function immediately after this line.
+# To Do: Define your quiz function immediately AFTER this line.
 
 
 def main():
